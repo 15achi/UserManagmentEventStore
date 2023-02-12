@@ -1,0 +1,209 @@
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\appsettings.Development.json
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\appsettings.json
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.exe
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.deps.json
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.runtimeconfig.json
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.pdb
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Dapper.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Web.Http.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.Core.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.AssemblyReference.cache
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.AssemblyInfoInputs.cache
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.AssemblyInfo.cs
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.CoreCompileInputs.cache
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.MvcApplicationPartsAssemblyInfo.cs
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.MvcApplicationPartsAssemblyInfo.cache
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.UserManagment.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.build.UserManagment.API.props
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserManagment.API.props
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserManagment.API.props
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\scopedcss\bundle\UserManagment.API.styles.css
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.CopyComplete
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.dll
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\refint\UserManagment.API.dll
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.pdb
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.genruntimeconfig.cache
+D:\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\ref\UserManagment.API.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.exe
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.deps.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.runtimeconfig.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.Core.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Domain.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Domain.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.UserManagment.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.build.UserManagment.API.props
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserManagment.API.props
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserManagment.API.props
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\scopedcss\bundle\UserManagment.API.styles.css
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\refint\UserManagment.API.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\ref\UserManagment.API.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\appsettings.Development.json
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\appsettings.json
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.exe
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.deps.json
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.runtimeconfig.json
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.API.pdb
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Dapper.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Web.Http.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Swashbuckle.Core.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.AssemblyReference.cache
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.AssemblyInfoInputs.cache
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.AssemblyInfo.cs
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.CoreCompileInputs.cache
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.MvcApplicationPartsAssemblyInfo.cs
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.MvcApplicationPartsAssemblyInfo.cache
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.UserManagment.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.build.UserManagment.API.props
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserManagment.API.props
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserManagment.API.props
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\scopedcss\bundle\UserManagment.API.styles.css
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.csproj.CopyComplete
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.dll
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\refint\UserManagment.API.dll
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.pdb
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\UserManagment.API.genruntimeconfig.cache
+D:\example\UserManagmentEventStore\UserManagment.API\obj\Debug\net6.0\ref\UserManagment.API.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagmentEventSsore.Commands.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagmentEventStore.Queries.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagmentEventSsore.Commands.pdb
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagmentEventStore.Queries.pdb
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Elasticsearch.Net.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\example\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Nest.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Nest.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagmentEventSsore.Commands.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagmentEventStore.Queries.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagmentEventSsore.Commands.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\UserManagmentEventStore.Queries.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

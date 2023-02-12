@@ -1,0 +1,34 @@
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagmentEventSsore.Commands.deps.json
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagmentEventSsore.Commands.dll
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagmentEventSsore.Commands.pdb
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.csproj.AssemblyReference.cache
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.GeneratedMSBuildEditorConfig.editorconfig
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.AssemblyInfoInputs.cache
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.AssemblyInfo.cs
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.csproj.CoreCompileInputs.cache
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.csproj.CopyComplete
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.dll
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\refint\UserManagmentEventSsore.Commands.dll
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.pdb
+D:\example\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\ref\UserManagmentEventSsore.Commands.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagmentEventSsore.Commands.deps.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagmentEventSsore.Commands.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagmentEventSsore.Commands.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagment.Domain.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\bin\Debug\net6.0\UserManagment.Domain.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\refint\UserManagmentEventSsore.Commands.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\UserManagmentEventSsore.Commands.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagmentEventSsore.Commands\obj\Debug\net6.0\ref\UserManagmentEventSsore.Commands.dll

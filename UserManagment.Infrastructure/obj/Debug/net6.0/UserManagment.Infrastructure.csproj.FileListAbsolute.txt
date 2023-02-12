@@ -1,0 +1,47 @@
+D:\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.deps.json
+D:\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.AssemblyReference.cache
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.AssemblyInfoInputs.cache
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.AssemblyInfo.cs
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.CoreCompileInputs.cache
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.CopyComplete
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\refint\UserManagment.Infrastructure.dll
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\ref\UserManagment.Infrastructure.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.deps.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Domain.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Domain.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\refint\UserManagment.Infrastructure.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\ref\UserManagment.Infrastructure.dll
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.deps.json
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.AssemblyReference.cache
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.AssemblyInfoInputs.cache
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.AssemblyInfo.cs
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.CoreCompileInputs.cache
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.csproj.CopyComplete
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.dll
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\refint\UserManagment.Infrastructure.dll
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.pdb
+D:\example\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\ref\UserManagment.Infrastructure.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\bin\Debug\net6.0\UserManagment.Infrastructure.runtimeconfig.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Infrastructure\obj\Debug\net6.0\UserManagment.Infrastructure.genruntimeconfig.cache

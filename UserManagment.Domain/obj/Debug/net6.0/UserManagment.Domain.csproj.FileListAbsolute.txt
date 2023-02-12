@@ -1,0 +1,36 @@
+D:\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.deps.json
+D:\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.AssemblyReference.cache
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.AssemblyInfoInputs.cache
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.AssemblyInfo.cs
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.CoreCompileInputs.cache
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.dll
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\refint\UserManagment.Domain.dll
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.pdb
+D:\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\ref\UserManagment.Domain.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.deps.json
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\refint\UserManagment.Domain.dll
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.pdb
+C:\Users\User\Desktop\New folder\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\ref\UserManagment.Domain.dll
+D:\example\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.deps.json
+D:\example\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.dll
+D:\example\UserManagmentEventStore\UserManagment.Domain\bin\Debug\net6.0\UserManagment.Domain.pdb
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.AssemblyReference.cache
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.AssemblyInfoInputs.cache
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.AssemblyInfo.cs
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.csproj.CoreCompileInputs.cache
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.dll
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\refint\UserManagment.Domain.dll
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\UserManagment.Domain.pdb
+D:\example\UserManagmentEventStore\UserManagment.Domain\obj\Debug\net6.0\ref\UserManagment.Domain.dll
